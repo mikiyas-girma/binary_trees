@@ -1,3 +1,11 @@
 # ignore unnecessary c files that are not used for correction
 binary_tree_print.c
-main.c
+*-main.c
+
+# ignore c object files
+*.o
+*.out
+*.exe
+
+# ignore temporary files
+*~
