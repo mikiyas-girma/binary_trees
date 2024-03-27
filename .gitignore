@@ -1,0 +1,3 @@
+# ignore unnecessary c files that are not used for correction
+binary_tree_print.c
+main.c
